@@ -1,8 +1,5 @@
-# ex2-cea514
 <h1>Exercício 2 - CEA514<h1>
-
-<h6>Para utilizar é necessário instalação das seguintes bibliotcas: tweepy, json;
-
+<h6>Para utilizar é necessário instalação das seguintes bibliotecas: tweepy, json;
 python3 exercicio1.py [-f (escreve em arquivo) = default, -p (exibe no terminal)] 
 						[qtd_tweets = 100] [qtd_followers_friends = 10] [esperar os limits da api: 0 (0,1)]
 
